@@ -16,7 +16,6 @@ using YoutubeDownloader.Core.Tagging;
 using YoutubeDownloader.Framework;
 using YoutubeDownloader.Localization;
 using YoutubeDownloader.Services;
-using YoutubeDownloader.Utils.Extensions;
 using YoutubeExplode.Exceptions;
 
 namespace YoutubeDownloader.ViewModels.Components;
